@@ -87,8 +87,6 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 <img src="https://farm5.staticflickr.com/4660/25963918068_b7a6234a86_b.jpg" width="1024" height="539" alt="EndorsementConsensus">
 
-<img src="https://farm5.staticflickr.com/4702/25964232778_62e1268a89_b.jpg" width="1024" height="421" alt="ordererflow">
-
 It is also important to note the Hyperledger Fabric has HSM (Hardware Security Module) support which is vital for safeguarding and managing digital keys for strong authentication. Hyperledger Fabric provides modified and unmodified PKCS11 for key generation, which supports cases like identity management that need more protection.
 
 
