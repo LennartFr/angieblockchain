@@ -4,6 +4,8 @@
 
 # https://ibm.biz/angieblock
 
+[Blockchain for DUMMIES](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
+
 # How did it all start?
  
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
